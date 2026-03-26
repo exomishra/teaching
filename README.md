@@ -14,7 +14,7 @@ self-contained, versioned, and easy to reuse.
 |------|------|----------|----------|------------|
 | Computer Vision | 2025 | 2 days | CAS ML 6 HSLU | [link](https://github.com/exomishra/computer-vision-cas-hslu-2025) |
 | Cross Attention in Vision Language Models| 2026 | 1 day | CAS GenAI Armasuisse | [link](https://github.com/exomishra/attention-VLM-2026/tree/main) |
-| Agent Ops (MLOps, MCP, Evaluations) | 2026 | 2 days | [SAS Bootcamp HSLU](https://www.hslu.ch/de-ch/informatik/weiterbildung/applied-data-intelligence/sas-llms-and-ai-agents/) | _TBD_ |
+| Agent Ops (MLOps, MCP, Evaluations) | 2026 | 2 days | [SAS Bootcamp HSLU](https://www.hslu.ch/de-ch/informatik/weiterbildung/applied-data-intelligence/sas-llms-and-ai-agents/) | [link](https://github.com/exomishra/mcp-mlops-sas-bootcamp-hslu-2026) |
 
 ---
 
